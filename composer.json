@@ -1,0 +1,15 @@
+{
+    "name": "michaeljoelphillips/completion-repro",
+    "authors": [
+        {
+            "name": "Michael Phillips",
+            "email": "michaeljoelphillips@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "CompletionRepro\\": "src/"
+        }
+    }
+}
